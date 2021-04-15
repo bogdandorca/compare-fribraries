@@ -1,15 +1,28 @@
 <template>
-  <img alt="Vue logo" src="./assets/logo.png" />
-  <HelloWorld msg="Hello Vue 3.0 + Vite" />
+  <main>
+    <SidebarComponent />
+    <DefaultView />
+  </main>
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld.vue'
+import DefaultView from "./components/views/default.vue";
+import SidebarComponent from "./components/organisms/sidebar.vue";
 
 export default {
   name: 'App',
   components: {
-    HelloWorld
+    DefaultView,
+    SidebarComponent
   }
 }
 </script>
+
+<style scoped>
+main {
+  display: flex;
+  height: 100vh;
+  width: 100vw;
+  flex-flow: row;
+}
+</style>

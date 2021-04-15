@@ -5,15 +5,18 @@
   "main": "index.js",
   "scripts": {
     "build:react": "cd public/react-app && npm run build",
+    "install:react": "cd public/react-app && npm install",
     "build:vue": "cd public/vue-app && npm run build",
+    "install:vue": "cd public/vue-app && npm install",
     "build:svelte": "cd public/svelte-app && npm run build",
+    "install:svelte": "cd public/svelte-app && npm install",
     "build": "npm run build:react && npm run build:vue && npm run build:svelte",
+    "install:all": "npm install && npm run install:react && npm run install:vue && npm run install:svelte",
     "start": "node app.js"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "cookie-parser": "^1.4.5",
     "express": "^4.17.1"
   }
 }
