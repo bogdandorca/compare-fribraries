@@ -20,15 +20,30 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0843cf15-ab96-40b0-9b67-53a1c8933e2c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/runtest.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-urls.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vue-app/dist/_assets/index.1b50f12e.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vue-app/dist/_assets/style.e776011e.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vue-app/dist/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vue-app/dist/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/react-app/build/asset-manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/public/react-app/build/asset-manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/react-app/build/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/react-app/build/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/react-app/build/static/js/main.013c4233.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/react-app/build/static/js/main.013c4233.chunk.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/react-app/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/public/react-app/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/react-app/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/react-app/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/svelte-app/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/public/svelte-app/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/svelte-app/public/build/bundle.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/svelte-app/public/build/bundle.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/svelte-app/public/build/bundle.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/svelte-app/public/build/bundle.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/svelte-app/public/build/bundle.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/public/svelte-app/public/build/bundle.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/svelte-app/public/global.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/svelte-app/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/svelte-app/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/svelte-app/src/App.svelte" beforeDir="false" afterPath="$PROJECT_DIR$/public/svelte-app/src/App.svelte" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vue-app/dist/_assets/index.68af122e.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vue-app/dist/_assets/style.2f404dd7.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vue-app/dist/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/vue-app/dist/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vue-app/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/vue-app/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vue-app/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/public/vue-app/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/vue-app/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/public/vue-app/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vue-app/src/components/molecules/tabs.vue" beforeDir="false" afterPath="$PROJECT_DIR$/public/vue-app/src/components/molecules/tabs.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vue-app/src/components/organisms/list.vue" beforeDir="false" afterPath="$PROJECT_DIR$/public/vue-app/src/components/organisms/list.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vue-app/src/components/views/default.vue" beforeDir="false" afterPath="$PROJECT_DIR$/public/vue-app/src/components/views/default.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vue-app/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/vue-app/src/index.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,6 +88,32 @@
       <recent name="$PROJECT_DIR$/public/svelte-app/src/components" />
     </key>
   </component>
+  <component name="RunManager" selected="JavaScript Debug.index.html (4)">
+    <configuration name="index.html (1)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/compare-fribraries/sitespeed-result/host.docker.internal/2021-04-17-20-44-48/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="index.html (2)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/compare-fribraries/sitespeed-result/host.docker.internal/2021-04-17-20-59-23/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="index.html (3)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/compare-fribraries/sitespeed-result/host.docker.internal/2021-04-17-21-15-36/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="index.html (4)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/compare-fribraries/sitespeed-result/host.docker.internal/2021-04-17-21-21-55/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/compare-fribraries/sitespeed-result/host.docker.internal/2021-04-17-20-39-13/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.index.html (4)" />
+        <item itemvalue="JavaScript Debug.index.html (3)" />
+        <item itemvalue="JavaScript Debug.index.html (2)" />
+        <item itemvalue="JavaScript Debug.index.html (1)" />
+        <item itemvalue="JavaScript Debug.index.html" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -99,12 +140,29 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="458" y="204" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1618502703440">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="458" y="204" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1440.900/-265.-1080.1920.1080@0.0.1440.900" timestamp="1618502703440" />
+    <state width="1659" height="295" key="GridCell.Tab.0.bottom" timestamp="1618693045505">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1659" height="295" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1618693045505" />
+    <state width="1659" height="295" key="GridCell.Tab.0.center" timestamp="1618693045504">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1659" height="295" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1618693045504" />
+    <state width="1659" height="295" key="GridCell.Tab.0.left" timestamp="1618693045504">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1659" height="295" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1618693045504" />
+    <state width="1659" height="295" key="GridCell.Tab.0.right" timestamp="1618693045505">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1659" height="295" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1618693045505" />
     <state x="216" y="0" key="SettingsEditor" timestamp="1618564004566">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
@@ -113,6 +171,10 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="421" y="205" width="598" height="490" key="find.popup/0.0.1440.900/-265.-1080.1920.1080@0.0.1440.900" timestamp="1618504036097" />
+    <state x="505" y="233" width="670" height="676" key="search.everywhere.popup" timestamp="1618695215431">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="505" y="233" width="670" height="676" key="search.everywhere.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1618695215431" />
     <state x="450" y="309" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1618498238820">
       <screen x="0" y="0" width="1440" height="900" />
     </state>

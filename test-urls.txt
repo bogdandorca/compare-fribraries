@@ -1,0 +1,3 @@
+http://host.docker.internal:8084/react/?list-items=1000 React
+http://host.docker.internal:8084/vue/?list-items=1000 Vue
+http://host.docker.internal:8084/svelte/?list-items=1000 Svelte
