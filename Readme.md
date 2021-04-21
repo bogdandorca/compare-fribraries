@@ -1,13 +1,14 @@
 # Compare Frameworks/Libraries
 
 This repo contains some 3 identical frontend applications  written in 3 different FrontEnd libraries.
+You will need to have Docker installed in order to run the speedtest.
 
 ## TL;DR
 
  - `npm run install:all`
  - `npm run build`
  - `npm start`
- - `./runtest.sh`
+ - `./runtest.sh` (if you have Docker installed)
  - Open `./sitespeed-result/${dateTime}/index.html`
 
 ## Build
